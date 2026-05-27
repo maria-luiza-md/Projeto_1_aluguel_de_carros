@@ -20,7 +20,7 @@ km = st.text_input(f"quntos km voce rodou com o {carro}?")
 if carro == "BMW":
     diaria = 600
 
-elif carro == "Jeep":
+elif carro == "jeep":
     diaria = 600
 
 elif carro == "Dodge ram":

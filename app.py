@@ -4,7 +4,7 @@ import streamlit as st
 
 st.sidebar.title("Multiuso(carros)")
 
-carros = ["Jeep" ,"Dodge ram","BMW", "Mustang"]
+carros = ["jeep" ,"Dodge ram","BMW", "Mustang"]
 carro = st.sidebar.selectbox("escolha seu carros:" , carros)
 
 #-----------------------------BODY
